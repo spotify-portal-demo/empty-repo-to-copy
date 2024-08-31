@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: empty-repo-to-copy
+  annotations:
+    github.com/project-slug: 'spotify-portal-demo/empty-repo-to-copy'
+spec:
+  type: service
+  lifecycle: experimental
+  owner: sharks
