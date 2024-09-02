@@ -5,7 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: 'spotify-portal-demo/empty-repo-to-copy'
     backstage.io/techdocs-ref: dir:.
-    backstage.io/adr-location: 
+    backstage.io/adr-location: https://github.com/spotify-portal-demo/empty-repo-to-copy/tree/main/decisions
 spec:
   type: service
   lifecycle: production
