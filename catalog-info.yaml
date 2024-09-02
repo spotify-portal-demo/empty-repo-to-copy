@@ -9,4 +9,5 @@ spec:
   type: service
   lifecycle: production
   owner: sharks
-  dependsOn: "demo-website"
+  dependsOn: 
+   - component:default/demo-website
